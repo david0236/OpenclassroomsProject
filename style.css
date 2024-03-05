@@ -5,17 +5,21 @@ body{
 
 .site-wrapper{
     display: flex;
-width: 2100px;
-height: 1395px;
-flex-direction: column;
-align-items: center;
-gap: 30px;
+    width: 1440px;
+    height: 1395px;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    background: var(--Background, #F6F6F6);
 }
 header{
     display: flex;
 flex-direction: column;
 align-items: center;
 align-self: stretch;
+background: var(--White, #FFF);
+
+box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.15);
 }
 
 .logo img {
@@ -42,6 +46,7 @@ background: var(--Grey-2, #EAEAEA);
 display: flex;
 flex-direction: column;
 align-items: center;
+background: var(--Background, #F6F6F6);
 
 }
 .booking button{
@@ -57,4 +62,44 @@ align-items: center;
     align-items: flex-start;
     gap: 25px;
     align-self: stretch;
+    background: #FFF;
+}
+
+
+.restaurant{
+    display: flex;
+padding: 0px 180px;
+flex-direction: column;
+align-items: flex-start;
+gap: 28px;
+align-self: stretch;
+}
+.restaurant h1 {
+    width: 268.718px;
+}
+.first{
+    display: flex;
+align-items: flex-start;
+gap: 100px;
+align-self: stretch;
+}
+
+
+.restaurant .card{
+border-radius: 15px;
+background: #FFF;
+box-shadow: 0px 4px 15px 0px rgba(0, 0, 0, 0.10);
+}
+
+footer{
+display: flex;
+width: 1400px;
+height: 114px;
+padding: 30px 25px;
+justify-content: flex-end;
+align-items: flex-end;
+gap: 16px;
+flex-shrink: 0;
+color: var(--White, #FFF);
+background: var(--Grey, #353535);
 }
