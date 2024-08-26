@@ -9,7 +9,7 @@ You have just been recruited at Ohmyfood as a junior developer. Congratulations!
 
 Ohmyfood is an emerging startup aiming to make a significant impact in the restaurant industry. The goal is to create a fully mobile-friendly website that showcases the menus of gourmet restaurants. Beyond a traditional reservation system, customers will have the ability to pre-select the dishes they want to enjoy, ensuring their meals are ready upon arrival. Say goodbye to long waits at restaurants!
 
-![Screenshot.](https://svgtrace.com/share.html?date=2024-08-26&fileName=windows_4d36228d-8c50-4eea-9560-e170617f8c8a_1724671512991)
+![Screenshot.](https://user-images.githubusercontent.com/73438491/124780109-3147a780-def7-11eb-83bf-4dfeab82b095.png)
 
 You are one of the four lucky ones who have the chance to work on this project.
 
@@ -25,7 +25,7 @@ With the team, you decide that the prototype will contain these fourmenus.
 
 Here is the brief you draw up with the CTO, Paul. Back at your desk, you find the mock-ups of the site in your mailbox, sent by Emily.
 
-IMAGE SCREENSHOT
+![image](https://user-images.githubusercontent.com/73438491/124781074-f8f49900-def7-11eb-822d-b3d3749da4a8.png)
 
 ## Deliverables
 A link to your GitHub repository.
